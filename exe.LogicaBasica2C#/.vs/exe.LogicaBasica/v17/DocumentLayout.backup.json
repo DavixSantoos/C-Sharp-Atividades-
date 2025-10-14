@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david.csjesus\\Desktop\\Desafios\\exe.LogicaBasica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00002ADF-1BF9-4AD3-92DE-C634231C2326}|exe.LogicaBasica\\exe.LogicaBasica.csproj|c:\\users\\david.csjesus\\desktop\\desafios\\exe.logicabasica\\exe.logicabasica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00002ADF-1BF9-4AD3-92DE-C634231C2326}|exe.LogicaBasica\\exe.LogicaBasica.csproj|solutionrelative:exe.logicabasica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\david.csjesus\\Desktop\\Desafios\\exe.LogicaBasica\\exe.LogicaBasica\\Program.cs",
+              "RelativeDocumentMoniker": "exe.LogicaBasica\\Program.cs",
+              "ToolTip": "C:\\Users\\david.csjesus\\Desktop\\Desafios\\exe.LogicaBasica\\exe.LogicaBasica\\Program.cs",
+              "RelativeToolTip": "exe.LogicaBasica\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T22:41:12.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
