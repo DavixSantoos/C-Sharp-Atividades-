@@ -1,0 +1,14 @@
+C:\Users\david.csjesus\Desktop\Desafios\EXE.estruturaEscolhaCaso2C#\EXE.estruturaEscolhaCaso2C#\obj\Debug\net8.0\EXE.estruturaEscolhaCaso2C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.csjesus\Desktop\Desafios\EXE.estruturaEscolhaCaso2C#\EXE.estruturaEscolhaCaso2C#\obj\Debug\net8.0\EXE.estruturaEscolhaCaso2C#.AssemblyInfoInputs.cache
+C:\Users\david.csjesus\Desktop\Desafios\EXE.estruturaEscolhaCaso2C#\EXE.estruturaEscolhaCaso2C#\obj\Debug\net8.0\EXE.estruturaEscolhaCaso2C#.AssemblyInfo.cs
+C:\Users\david.csjesus\Desktop\Desafios\EXE.estruturaEscolhaCaso2C#\EXE.estruturaEscolhaCaso2C#\obj\Debug\net8.0\EXE.estruturaEscolhaCaso2C#.csproj.CoreCompileInputs.cache
+C:\Users\david.csjesus\Desktop\Desafios\EXE.estruturaEscolhaCaso2C#\EXE.estruturaEscolhaCaso2C#\bin\Debug\net8.0\EXE.estruturaEscolhaCaso2C#.exe
+C:\Users\david.csjesus\Desktop\Desafios\EXE.estruturaEscolhaCaso2C#\EXE.estruturaEscolhaCaso2C#\bin\Debug\net8.0\EXE.estruturaEscolhaCaso2C#.deps.json
+C:\Users\david.csjesus\Desktop\Desafios\EXE.estruturaEscolhaCaso2C#\EXE.estruturaEscolhaCaso2C#\bin\Debug\net8.0\EXE.estruturaEscolhaCaso2C#.runtimeconfig.json
+C:\Users\david.csjesus\Desktop\Desafios\EXE.estruturaEscolhaCaso2C#\EXE.estruturaEscolhaCaso2C#\bin\Debug\net8.0\EXE.estruturaEscolhaCaso2C#.dll
+C:\Users\david.csjesus\Desktop\Desafios\EXE.estruturaEscolhaCaso2C#\EXE.estruturaEscolhaCaso2C#\bin\Debug\net8.0\EXE.estruturaEscolhaCaso2C#.pdb
+C:\Users\david.csjesus\Desktop\Desafios\EXE.estruturaEscolhaCaso2C#\EXE.estruturaEscolhaCaso2C#\obj\Debug\net8.0\EXE.estruturaEscolhaCaso2C#.dll
+C:\Users\david.csjesus\Desktop\Desafios\EXE.estruturaEscolhaCaso2C#\EXE.estruturaEscolhaCaso2C#\obj\Debug\net8.0\refint\EXE.estruturaEscolhaCaso2C#.dll
+C:\Users\david.csjesus\Desktop\Desafios\EXE.estruturaEscolhaCaso2C#\EXE.estruturaEscolhaCaso2C#\obj\Debug\net8.0\EXE.estruturaEscolhaCaso2C#.pdb
+C:\Users\david.csjesus\Desktop\Desafios\EXE.estruturaEscolhaCaso2C#\EXE.estruturaEscolhaCaso2C#\obj\Debug\net8.0\EXE.estruturaEscolhaCaso2C#.genruntimeconfig.cache
+C:\Users\david.csjesus\Desktop\Desafios\EXE.estruturaEscolhaCaso2C#\EXE.estruturaEscolhaCaso2C#\obj\Debug\net8.0\ref\EXE.estruturaEscolhaCaso2C#.dll
